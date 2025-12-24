@@ -1,0 +1,21 @@
+name : aiops-hdfs
+
+channels: 
+  - conda-forge
+  = pytorch
+  - nvidia
+dependencies:
+  - python=3.11.13
+  
+# Core numerics/data
+  - numpy 
+  - scipy
+  - pandas
+  - scikit-learn
+  - pyyaml
+  - tqdm
+  - matplotlib
+
+  # Modeling (CPU by default; GPU support depends on your setup)
+  # - pytorch>=2,<3
+  
