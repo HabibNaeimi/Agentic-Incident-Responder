@@ -1,0 +1,15 @@
+# Data & large artifacts
+data/processed/
+models/
+artifacts/
+reports/
+
+# Local/raw data (keep it local; do not commit)
+Data/
+data/raw/
+experiments/
+
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
