@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "aiops-hdfs"
 version = "0.1.0"
-description = "HDFS log anomaly detection + safe incident-response simulation"
+description = "HDFS log anomaly detection featuring safe incident-response simulation"
 requires-python = ">=3.11"
 dependencies = []
 

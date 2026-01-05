@@ -5,7 +5,7 @@ project:
 paths:
   # Keep your existing dataset folder as the source of truth for now.
   # Later, if you migrate to data/raw/hdfs/, you only change this config.
-  raw_data_dir: "Data"
+  raw_data_dir: "Data/raw"
   processed_data_dir: "data/processed"
   artifacts_dir: "artifacts"
   splits_dir: "splits"
