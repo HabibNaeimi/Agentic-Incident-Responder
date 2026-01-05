@@ -5,6 +5,8 @@ A quick test including:
     loading config,
     resolving dataset paths,
     creating output directories.
+
+This is for checking if the initial packaging of setup has been done correctly or not.
 """
 
 from __future__ import annotations
