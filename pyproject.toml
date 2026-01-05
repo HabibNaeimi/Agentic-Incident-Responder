@@ -1,3 +1,5 @@
+# Packaging metadata so that python can undrestand the project is a package. 
+
 [build-system]
 requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"

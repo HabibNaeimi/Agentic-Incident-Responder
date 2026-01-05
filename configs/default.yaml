@@ -1,3 +1,7 @@
+# The central configuration for the project including paths, filenames, and seed.
+#   Gives the ability to control the pipeline in only one point!
+
+
 project:
   name: "aiops-hdfs"
   seed: 1337
